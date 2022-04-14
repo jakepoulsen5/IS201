@@ -1,0 +1,26 @@
+nav{
+    background-color: lightgrey;
+}
+ 
+li {
+    font-size: medium;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    font-size: xx-large;
+    font-family:"Open Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-align: center;
+    color: goldenrod;
+}
+
+h2{
+    color: goldenrod;
+    font-size: medium;    
+}
+
+body{
+  background-color: white;  
+}
+
